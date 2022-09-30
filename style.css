@@ -182,7 +182,9 @@ body {
         margin-bottom: 10px;
     }
 
-
+    .right-container {
+        left: 0;
+    }
 
     .left-container img,
     .right-container img {
